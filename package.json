@@ -1,0 +1,21 @@
+{
+  "name": "erna-api",
+  "version": "1.0.0",
+  "description": "random erna may be provided.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "erna-api"
+  },
+  "keywords": [
+    "erna"
+  ],
+  "author": "furyingfox",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
